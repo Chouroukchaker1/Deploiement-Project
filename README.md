@@ -181,8 +181,4 @@ Transformer le frontend en application **cloud-native**, scalable et automatisé
 
 ---
 
-Si tu veux, je peux aussi te faire :
-
-* README version **GitHub avec badges DevOps**
-* diagramme architecture Kubernetes (Ingress → Service → Pod)
-* ou explication ligne par ligne de tes YAML 🔥
+ 
